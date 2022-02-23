@@ -114,7 +114,7 @@ main h1{
 
 main h2{
     color: var(--cor4);
-    font-family: var(--font-android);
+    font-family: var(--font-android), Arial, Helvetica, sans-serif;
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
